@@ -1,4 +1,4 @@
-### Hi there, I am Jed 😁
+### Hi there, I'm Jed 😁
 
 About Me:
 
