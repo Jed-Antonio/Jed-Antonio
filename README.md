@@ -2,11 +2,10 @@
 
 About Me:
 
-I am a Computer Science Senior at the University of Kentucky.
+I am a Computer Science Graduate at the University of Kentucky.
 
 I love learning new technologies and open to challenging problems.
 
-I am currently learning IOS development.
 
 <!--
 **Jed-Antonio/Jed-Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
